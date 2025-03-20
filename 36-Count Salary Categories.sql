@@ -1,4 +1,5 @@
-# Write your MySQL query statement below
+#
+Write your MySQL query statement below
 SELECT 'Low Salary' AS category, COUNT(*) AS accounts_count
 FROM Accounts
 WHERE income < 20000
