@@ -1,4 +1,5 @@
-# Write your MySQL query statement below
+#
+Write your MySQL query statement below
 (
 select name as results
 From Users inner join MovieRating using(user_id)
